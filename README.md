@@ -10,7 +10,7 @@ The NN consists of one input layer the node of which are the vocabulary extracte
 
 ### Steps 
 
-The project is broken into several mini projects to resolve the problem step by step. Details csan be found in the notebook(./Sentiment_Classification_Projects.ipynb)
+The project is broken into several mini projects to resolve the problem step by step. Details can be found in the [notebook](./Sentiment_Classification_Projects.ipynb)
 
 Mini-Project 1: In this project we started by curating dataset and developing a predictive theory fo we thought the NN could be able to identify the correlation between the input and output data. We then validate the theory using some simple count based heuristics and found that we are able to identify words with both positive and negative correlation to out output data
 
